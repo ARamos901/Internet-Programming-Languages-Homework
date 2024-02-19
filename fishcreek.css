@@ -1,0 +1,43 @@
+
+
+
+    {min-width: 700px;
+}
+
+header {
+    color: #F0F0F;
+    background-image: url('fish1.jpeg');
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 1em;
+    text-align: center;
+    
+}
+
+h1 {
+}
+
+nav {
+    text-align: center;
+    background-color: #5280C5;
+    padding: .5em;}
+
+h2 {
+    text-shadow: 1px 1px 1px #777; }
+
+footer {
+    text-align: center;
+    padding-bottom: .5em;
+    background-color: #AEC3E3;
+}
+
+main {
+    padding-left: 2em; 
+    padding-right: 2em; 
+}
+
+footer nav {
+    background-color: #F0F0F0;
+    font-size: 110%;
+    padding-bottom: .5em;
+}
